@@ -1,0 +1,2098 @@
+/* screen - freshcartu95mobile-responsive */
+
+.freshcartu95mobile-responsive {
+  align-items: flex-start;
+  min-width: 375px;
+}
+
+.freshcartu95mobile-responsive .banner-section-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0.79%, rgba(255, 255, 255, 0.35) 67.89%);
+  background-image: url(../img/banner-section-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  height: 811px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .header-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .frame-56 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .frame-48-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 58.71px;
+  position: relative;
+  width: 100px;
+}
+
+.freshcartu95mobile-responsive .image-1-2 {
+  align-self: stretch;
+  height: 58.71px;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .menu-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  padding: 6px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .link-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.freshcartu95mobile-responsive .frame-25-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 44px 40px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .better-choices-better-you-1 {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .span-2 {
+  letter-spacing: 0.50px;
+}
+
+.freshcartu95mobile-responsive .fuel-your-path-to-a-1 {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .about1 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 48px;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .frame-45-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .about-us-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .about-fresh-cart-1 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .at-fresh-cart-were-1 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .categories-of-product1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .frame-47-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .frame-28-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .essentials-for-your-wellness-routine-1 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .explore-authentic-he-1 {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .frame-4-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 120px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .food-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  justify-content: center;
+  margin-left: -7.34px;
+  margin-right: -7.34px;
+  position: relative;
+  width: 149.68px;
+}
+
+.freshcartu95mobile-responsive .food-3 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .ellipse-26-1 {
+  background-color: var(--light-green-2);
+  border-radius: 74.77px/75px;
+  height: 150px;
+  position: relative;
+  width: 149.53px;
+}
+
+.freshcartu95mobile-responsive .mask-group-4 {
+  height: 69px;
+  left: 41px;
+  position: absolute;
+  top: 87px;
+  width: 69px;
+}
+
+.freshcartu95mobile-responsive .beverages-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  margin-left: -7.34px;
+  margin-right: -7.34px;
+  position: relative;
+  width: 149.68px;
+}
+
+.freshcartu95mobile-responsive .beverages-3 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .ellipse-24-1 {
+  background-color: var(--light-green-2);
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  margin-right: -0.32px;
+  position: relative;
+  width: 150px;
+}
+
+.freshcartu95mobile-responsive .icon-1 {
+  height: 79px;
+  left: 52px;
+  position: absolute;
+  top: 82px;
+  width: 46px;
+}
+
+.freshcartu95mobile-responsive .homecare-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19px;
+  margin-left: -7.50px;
+  margin-right: -7.50px;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .home-care-1 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .ellipse-2-1 {
+  background-color: var(--light-green-2);
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  position: relative;
+  width: 150px;
+}
+
+.freshcartu95mobile-responsive .x35_-1 {
+  height: 66px;
+  left: 42px;
+  position: absolute;
+  top: 88px;
+  width: 66px;
+}
+
+.freshcartu95mobile-responsive .gifting-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 21px;
+  justify-content: center;
+  margin-left: -7.50px;
+  margin-right: -7.50px;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .gifting-3 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .layer_1-1 {
+  height: 67px;
+  left: 42px;
+  position: absolute;
+  top: 90px;
+  width: 67px;
+}
+
+.freshcartu95mobile-responsive .healthcare-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  margin-left: -7.50px;
+  margin-right: -7.50px;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .health-care-1 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .ellipse-27-1 {
+  background-color: var(--light-green-2);
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  position: relative;
+  width: 150px;
+}
+
+.freshcartu95mobile-responsive .mask-group-5 {
+  height: 60px;
+  left: 45px;
+  position: absolute;
+  top: 91px;
+  width: 60px;
+}
+
+.freshcartu95mobile-responsive .baby-food-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-left: -7.50px;
+  margin-right: -7.50px;
+  position: relative;
+  width: 150px;
+}
+
+.freshcartu95mobile-responsive .baby-food-3 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .ellipse-28-1 {
+  align-self: stretch;
+  background-color: var(--light-green-2);
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .mask-group-6 {
+  height: 77px;
+  left: 37px;
+  position: absolute;
+  top: 86px;
+  width: 77px;
+}
+
+.freshcartu95mobile-responsive .green-band-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--dark-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .frame-46-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .fresh-cart-is-the-go-1 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .contact-us1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .email-section-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 46px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .frame-50-1 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.freshcartu95mobile-responsive .contact-us-get-in-touch-1 {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile-responsive .span-3 {
+  letter-spacing: 0.46px;
+}
+
+.freshcartu95mobile-responsive .email-button-1 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--light-green);
+  border-radius: 34px;
+  display: flex;
+  gap: 12px;
+  padding: 15px 33px;
+  position: relative;
+  width: 308px;
+}
+
+.freshcartu95mobile-responsive .mask-group-7 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.freshcartu95mobile-responsive .infofreshcartcom-1 {
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.freshcartu95mobile-responsive .addresses-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .frame-29-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 40px;
+  justify-content: center;
+  padding: 53px 40px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .frame-41-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 218px;
+}
+
+.freshcartu95mobile-responsive .address-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .frame-42-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 241px;
+}
+
+.freshcartu95mobile-responsive .hygeia-building-rea-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .frame-43-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 231px;
+}
+
+.freshcartu95mobile-responsive .name-1 {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .f-135136-kailas-va-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .frame-44-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 229px;
+}
+
+.freshcartu95mobile-responsive .x2301-bayfield-build-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .footer-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95mobile-responsive .frame-32-1 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .image-1-3 {
+  height: 58.51px;
+  width: 100px;
+}
+
+.freshcartu95mobile-responsive .x2023-nine-life-all-rights-reserved-1 {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95mobile {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.freshcartu95mobile-responsive .image-1 {
+  object-fit: cover;
+  position: relative;
+}
+/* screen - freshcartu95tablet-responsive */
+
+.freshcartu95tablet-responsive {
+  align-items: flex-start;
+  flex-direction: column;
+  min-width: 964px;
+}
+
+.freshcartu95tablet-responsive .banner-section-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 625px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .header1 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--text-grey);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 124px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .frame-26-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .frame-48-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100px;
+}
+
+.freshcartu95tablet-responsive .image-1-4 {
+  align-self: stretch;
+  height: 58.71px;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .menu-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .link-2 {
+  color: var(--dark-green);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.freshcartu95tablet-responsive .frame-25-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .better-choices-better-you-2 {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .span-4 {
+  letter-spacing: 0.50px;
+}
+
+.freshcartu95tablet-responsive .fuel-your-path-to-a-2 {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .about2 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .frame-45-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .about-us-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .about-fresh-cart-2 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .at-fresh-cart-were-2 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .categories-of-product2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .frame-47-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .frame-28-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .essentials-for-your-wellness-routine-2 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .explore-authentic-he-2 {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .frame-4-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 120px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .food-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  justify-content: center;
+  position: relative;
+  width: 149.68px;
+}
+
+.freshcartu95tablet-responsive .food-5 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .ellipse-26-2 {
+  background-color: var(--light-green-2);
+  border-radius: 74.77px/75px;
+  height: 150px;
+  position: relative;
+  width: 149.53px;
+}
+
+.freshcartu95tablet-responsive .mask-group-8 {
+  height: 69px;
+  left: 41px;
+  position: absolute;
+  top: 87px;
+  width: 69px;
+}
+
+.freshcartu95tablet-responsive .beverages-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: 149.68px;
+}
+
+.freshcartu95tablet-responsive .beverages-5 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .ellipse-24-2 {
+  background-color: var(--light-green-2);
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  margin-right: -0.32px;
+  position: relative;
+  width: 150px;
+}
+
+.freshcartu95tablet-responsive .icon-2 {
+  height: 79px;
+  left: 52px;
+  position: absolute;
+  top: 82px;
+  width: 46px;
+}
+
+.freshcartu95tablet-responsive .homecare-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .home-care-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .ellipse-2-2 {
+  background-color: var(--light-green-2);
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  position: relative;
+  width: 150px;
+}
+
+.freshcartu95tablet-responsive .x35_-2 {
+  height: 66px;
+  left: 42px;
+  position: absolute;
+  top: 88px;
+  width: 66px;
+}
+
+.freshcartu95tablet-responsive .gifting-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 21px;
+  justify-content: center;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .gifting-5 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .layer_1-2 {
+  height: 67px;
+  left: 42px;
+  position: absolute;
+  top: 90px;
+  width: 67px;
+}
+
+.freshcartu95tablet-responsive .healthcare-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .health-care-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .ellipse-27-2 {
+  background-color: var(--light-green-2);
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  position: relative;
+  width: 150px;
+}
+
+.freshcartu95tablet-responsive .mask-group-9 {
+  height: 60px;
+  left: 45px;
+  position: absolute;
+  top: 91px;
+  width: 60px;
+}
+
+.freshcartu95tablet-responsive .baby-food-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 150px;
+}
+
+.freshcartu95tablet-responsive .baby-food-5 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .ellipse-28-2 {
+  align-self: stretch;
+  background-color: var(--light-green-2);
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .mask-group-10 {
+  height: 77px;
+  left: 37px;
+  position: absolute;
+  top: 86px;
+  width: 77px;
+}
+
+.freshcartu95tablet-responsive .green-band-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--dark-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .frame-46-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .fresh-cart-is-the-go-2 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .contact-us2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .email-section-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 46px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .frame-50-2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.freshcartu95tablet-responsive .contact-us-get-in-touch-2 {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet-responsive .span-5 {
+  letter-spacing: 0.46px;
+}
+
+.freshcartu95tablet-responsive .email-button-2 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--light-green);
+  border-radius: 34px;
+  display: flex;
+  gap: 12px;
+  padding: 15px 33px;
+  position: relative;
+  width: 308px;
+}
+
+.freshcartu95tablet-responsive .mask-group-11 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.freshcartu95tablet-responsive .infofreshcartcom-2 {
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.freshcartu95tablet-responsive .addresses-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .frame-29-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 40px;
+  justify-content: center;
+  padding: 53px 100px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .frame-41-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 218px;
+}
+
+.freshcartu95tablet-responsive .address-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .frame-42-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 241px;
+}
+
+.freshcartu95tablet-responsive .hygeia-building-rea-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .frame-43-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 231px;
+}
+
+.freshcartu95tablet-responsive .name-2 {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .f-135136-kailas-va-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .frame-44-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 229px;
+}
+
+.freshcartu95tablet-responsive .x2301-bayfield-build-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .footer-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.freshcartu95tablet-responsive .frame-32-2 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .image-1-5 {
+  height: 58.51px;
+  width: 100px;
+}
+
+.freshcartu95tablet-responsive .x2023-nine-life-all-rights-reserved-2 {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.freshcartu95tablet {
+  background-color: var(--white);
+  display: flex;
+  position: relative;
+}
+
+.freshcartu95tablet-responsive .image-1 {
+  object-fit: cover;
+  position: relative;
+}
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 1226px;
+  position: relative;
+}
+
+.index .header {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--text-grey);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  height: 124px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-26 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.index .frame-48 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100px;
+}
+
+.index .image-1 {
+  align-self: stretch;
+  height: 58.71px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.index .menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.index .link {
+  color: var(--dark-green);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .banner-section {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 115px;
+  padding: 117px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-25 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .better-choices-better-you {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .span {
+  letter-spacing: 0.50px;
+}
+
+.index .fuel-your-path-to-a {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.index .about {
+  background-color: var(--white);
+  gap: 48px;
+}
+
+.index .frame-45 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .about-us {
+  gap: 53px;
+}
+
+.index .about-fresh-cart {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .at-fresh-cart-were {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.index .categories-of-product {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-47 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-28 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.index .essentials-for-your-wellness-routine {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .explore-authentic-he {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.index .frame-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 120px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .food {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  justify-content: center;
+  position: relative;
+  width: 149.68px;
+}
+
+.index .food-1 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-26 {
+  border-radius: 74.77px/75px;
+  height: 150px;
+  width: 149.53px;
+}
+
+.index .mask-group {
+  height: 69px;
+  left: 41px;
+  position: absolute;
+  top: 87px;
+  width: 69px;
+}
+
+.index .beverages {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: 149.68px;
+}
+
+.index .beverages-1 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-24 {
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  margin-right: -0.32px;
+  width: 150px;
+}
+
+.index .icon {
+  height: 79px;
+  left: 52px;
+  position: absolute;
+  top: 82px;
+  width: 46px;
+}
+
+.index .homecare {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+}
+
+.index .home-care {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-2 {
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  width: 150px;
+}
+
+.index .x35_ {
+  height: 66px;
+  left: 42px;
+  position: absolute;
+  top: 88px;
+  width: 66px;
+}
+
+.index .gifting {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 21px;
+  justify-content: center;
+  position: relative;
+}
+
+.index .gifting-1 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .layer_1 {
+  height: 67px;
+  left: 42px;
+  position: absolute;
+  top: 90px;
+  width: 67px;
+}
+
+.index .healthcare {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.index .health-care {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-27 {
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  width: 150px;
+}
+
+.index .mask-group-1 {
+  height: 60px;
+  left: 45px;
+  position: absolute;
+  top: 91px;
+  width: 60px;
+}
+
+.index .baby-food {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 150px;
+}
+
+.index .baby-food-1 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-28 {
+  align-self: stretch;
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  width: 100%;
+}
+
+.index .mask-group-2 {
+  height: 77px;
+  left: 37px;
+  position: absolute;
+  top: 86px;
+  width: 77px;
+}
+
+.index .green-band {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--dark-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-46 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .fresh-cart-is-the-go {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .contact-us {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .email-section {
+  align-self: stretch;
+  background-color: var(--white);
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 46px 0px;
+  width: 100%;
+}
+
+.index .frame-50 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.index .contact-us-get-in-touch {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .span-1 {
+  letter-spacing: 0.46px;
+}
+
+.index .email-button {
+  border: 1px solid;
+  border-color: var(--light-green);
+  border-radius: 34px;
+  gap: 12px;
+  padding: 15px 33px;
+  width: 308px;
+}
+
+.index .mask-group-3 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.index .infofreshcartcom {
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .addresses {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-29 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 40px;
+  justify-content: center;
+  padding: 53px 80px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-41 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 218px;
+}
+
+.index .address {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .frame-42 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 241px;
+}
+
+.index .hygeia-building-rea {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .frame-43 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 231px;
+}
+
+.index .name {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .f-135136-kailas-va {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .frame-44 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 229px;
+}
+
+.index .x2301-bayfield-build {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-32 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.index .image-1-1 {
+  height: 58.51px;
+  object-fit: cover;
+  position: relative;
+  width: 100px;
+}
+
+.index .x2023-nine-life-all-rights-reserved {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.index .about-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .ellipse {
+  background-color: var(--light-green-2);
+  position: relative;
+}
+
+.index .email {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.index .place-3 {
+  align-self: stretch;
+  color: var(--dark-green);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+@media screen and (max-width: 963px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.freshcartu95tablet-responsive { 
+    display: none;
+   }
+}
+@media screen and (min-width: 964px) and (max-width: 1225px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.freshcartu95mobile-responsive { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1226px) {
+  .screen.freshcartu95mobile-responsive { 
+    display: none;
+   }
+  .screen.freshcartu95tablet-responsive { 
+    display: none;
+   }
+}
